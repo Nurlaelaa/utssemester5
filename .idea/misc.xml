@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MOBILEUTS/ELAAA/PersiapanUTS/app/src/main/res/layout/activity_detail.xml" value="0.15942028985507245" />
+        <entry key="..\:/MOBILEUTS/ELAAA/PersiapanUTS/app/src/main/res/layout/activity_main.xml" value="0.15942028985507245" />
+        <entry key="..\:/MOBILEUTS/ELAAA/PersiapanUTS/app/src/main/res/layout/activity_splash_screen.xml" value="0.15942028985507245" />
+        <entry key="..\:/MOBILEUTS/ELAAA/PersiapanUTS/app/src/main/res/layout/item_list.xml" value="0.15942028985507245" />
+        <entry key="..\:/MOBILEUTS/NURUL/PersiapanUTS/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/MOBILEUTS/NURUL/PersiapanUTS/app/src/main/res/layout/activity_detail.xml" value="0.16666666666666666" />
+        <entry key="..\:/MOBILEUTS/NURUL/PersiapanUTS/app/src/main/res/layout/activity_main.xml" value="0.12395833333333334" />
+        <entry key="..\:/MOBILEUTS/NURUL/PersiapanUTS/app/src/main/res/layout/activity_splash_screen.xml" value="0.12395833333333334" />
+        <entry key="..\:/MOBILEUTS/NURUL/PersiapanUTS/app/src/main/res/layout/item_list.xml" value="0.5" />
+        <entry key="..\:/MOBILEUTS/PersiapanUTS/app/src/main/res/layout/activity_detail.xml" value="0.17346014492753623" />
+        <entry key="..\:/MOBILEUTS/PersiapanUTS/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/MOBILEUTS/PersiapanUTS/app/src/main/res/layout/activity_splash_screen.xml" value="0.17346014492753623" />
+        <entry key="..\:/MOBILEUTS/PersiapanUTS/app/src/main/res/layout/item_list.xml" value="0.17346014492753623" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
